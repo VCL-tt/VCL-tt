@@ -11,12 +11,6 @@
   </ul>
 </div>
 
-<!--- Pajarito Bailando -->
-<div align="center">
-  <p align='center'>
-    <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen>
-  </p>
-</div>
 
 
 <!--- snake -->
