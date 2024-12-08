@@ -16,10 +16,9 @@
 <!--- snake -->
 <div align="center">
   <p align='center'>
-    <img src="[https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif](https://camo.githubusercontent.com/61710ffd851d01b12f09dfc1e945c2d8d31e79cb491562fc466710086403a3e0/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f666c6167732f68642f696e646961706172726f742e676966)" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen>
+    <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen>
   </p>
 </div>
-
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
