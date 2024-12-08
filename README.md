@@ -27,8 +27,7 @@
 - 🌱 Siempre estoy buscando mejorar y aprender nuevas tecnologías, con un enfoque en desarrollo full-stack y computación en la nube.
 - 📚 Tengo 20 años, soy un desarrollador autónomo y me apasiona crear aplicaciones modernas, confiables y fáciles de usar.
 - 💬 No dudes en preguntarme sobre **Angular, Spring Boot, Docker, MySQL, PostgreSQL, Git, GitHub, SonarQube, Postman** ¡y más!
-- 📫 Puedes contactarme en **jorge@example.com** (solo un correo de ejemplo).
-- 🏠 Conéctate conmigo en [Discord - JorgeLuisCastillo](https://discordapp.com/users/957722095381540874)
+
 <!--Intro end-->
 
 <!--Tech stack description-->
