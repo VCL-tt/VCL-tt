@@ -24,28 +24,29 @@
 </div>
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, Nodejs, MongoDB, and more**
-- 🌱 I’m constantly improving my skills and learning new technologies for scalable and efficient applications.
-- 📚 I'm 20 years old and I work as a self-employed developer, with a keen interest in cloud computing and full-stack development.
-- 💬 Ask me about **AWS, React, Nodejs, MongoDB, Docker, Java, Spring Boot, and more.**
-- 📫 Feel free to reach me at **jorge@example.com** (just a placeholder email)
-- 🏠 Connect with me on [Discord - JorgeLuisCastillo](https://discordapp.com/users/957722095381540874)
+- 🔭 I’m currently working with **Angular, Spring Boot, Docker, MySQL, PostgreSQL**, and **AWS** to build scalable and efficient applications.
+- 🌱 Always eager to improve and learn new technologies, I focus on full-stack development and cloud computing.
+- 📚 I'm 20 years old, a self-employed developer, and passionate about creating modern, reliable, and user-friendly applications.
+- 💬 Feel free to ask me about **Angular, Spring Boot, Docker, MySQL, PostgreSQL, Git, GitHub, SonarQube, Postman**, and more!
+- 📫 You can reach me at **jorge@example.com** (just a placeholder email).
+- 🏠 Let's connect on [Discord - JorgeLuisCastillo](https://discordapp.com/users/957722095381540874)
 <!--Intro end-->
 
 <!--Tech stack description-->
 <div align="center">
   <h2>Technologies I Work With 👨🏻‍💻</h2>
   <p>
-    I specialize in full-stack development with technologies like **React, Node.js**, and **MongoDB**.  
-    I am passionate about cloud computing, working with **AWS** for scalable applications.  
-    Additionally, I have experience with containerization using **Docker**, building modern applications with **Angular** and **Spring Boot**, and managing source code with **Git** and **GitHub**.
+    I specialize in **full-stack development**, using modern frameworks and technologies like **Angular** for front-end development, and **Spring Boot** for building robust backend services.  
+    I am also highly skilled in **cloud computing**, particularly with **AWS**, and containerization with **Docker**.  
+    I manage databases using **MySQL** and **PostgreSQL**, and I take version control seriously with **Git** and **GitHub**.  
+    Additionally, I utilize **SonarQube** for code quality and **Postman** for API testing, ensuring high-quality and reliable applications.
   </p>
 </div>
 
 <!-- Tech stack icons -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,java,js,docker,angular,spring,git,github,mysql,postgres,postman&perline=6" />
+    <img src="https://skillicons.dev/icons?i=html,java,js,docker,angular,spring,git,github,mysql,postgres,postman,sonarqube&perline=6" />
   </a>
 </p>
 
@@ -63,7 +64,6 @@
 <a href="https://www.instagram.com/jorge_luis_castillo/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
 <a href="https://discordapp.com/users/957722095381540874" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
 </p>
-
 
 ----------------------------------------------------------------------  
 Credit: [Jorge Luis Castillo Vega](https://github.com/jorgecastillo)  
