@@ -69,9 +69,6 @@
   [![](https://visitcount.itsvg.in/api?id=jorgecastillo&icon=3&color=6)](https://visitcount.itsvg.in)
 </div>
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ----------------------------------------------------------------------  
 Credit: [Jorge Luis Castillo Vega](https://github.com/jorgecastillo)  
 Last Edited on: 7/12/2024
