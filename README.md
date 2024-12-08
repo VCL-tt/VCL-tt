@@ -1,6 +1,5 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <!--h1 with gradient effect-->
 <div id="user-content-toc">
   <ul align="center">
@@ -22,7 +21,6 @@
     }
   }
 </style>
-
 
 <!--- snake -->
 <div align="center">
