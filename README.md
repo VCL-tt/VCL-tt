@@ -34,12 +34,7 @@
 <!--Tech stack description-->
 <div align="center">
   <h2>Las Tecnologías con las que Trabajo 👨🏻‍💻</h2>
-  <p>
-    Me especializo en **desarrollo full-stack**, utilizando tecnologías modernas como **Angular** para el desarrollo del front-end y **Spring Boot** para crear robustos servicios backend.  
-    También tengo experiencia en **computación en la nube**, especialmente con **AWS**, y en la contenedorización usando **Docker**.  
-    Administro bases de datos con **MySQL** y **PostgreSQL**, y manejo el control de versiones con **Git** y **GitHub**.  
-    Además, utilizo **SonarQube** para garantizar la calidad del código y **Postman** para realizar pruebas de API, asegurando aplicaciones confiables y de alta calidad.
-  </p>
+
 </div>
 
 <!-- Tech stack icons -->
