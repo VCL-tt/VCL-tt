@@ -42,12 +42,13 @@
   </p>
 </div>
 
-<!--Tech stack icons-->
+<!-- Tech stack icons -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,java,js,docker,angular,spring,git,github,mongodb,react,nodejs&perline=6" />
+    <img src="https://skillicons.dev/icons?i=html,java,js,docker,angular,spring,git,github,mysql,postgres,sonarqube,postman&perline=6" />
   </a>
 </p>
+
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
