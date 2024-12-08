@@ -1,26 +1,15 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<!--h1 with gradient effect-->
+<!--h1 with highlighted text-->
 <div id="user-content-toc">
   <ul align="center">
     <summary>
-      <h1 style="display: inline-block; background: linear-gradient(to right, #FF6A00, #FF6347, #FF4500); -webkit-background-clip: text; color: transparent; font-size: 48px; animation: gradientEffect 3s infinite alternate;">
+      <h1 style="display: inline-block; color: #FF6347; font-size: 48px; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">
         ¡Hola 👋, soy Jorge Castillo Vega!
       </h1>
     </summary>
   </ul>
 </div>
-
-<style>
-  @keyframes gradientEffect {
-    0% {
-      background-position: 0%;
-    }
-    100% {
-      background-position: 100%;
-    }
-  }
-</style>
 
 <!--- snake -->
 <div align="center">
