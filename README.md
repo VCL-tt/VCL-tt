@@ -67,10 +67,10 @@
 ## 🌟 Explora Mi Trabajo
 
 <p align="center">
-  <a href="https://tu-portfolio.com" target="_blank">
-    <img src=["https://jcvcode.netlify.app" alt="Portfolio" />
+  <a href="https://jcvcode.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Ver_Portfolio_Completo-FF6B6B?style=for-the-badge&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://github.com/tuusuario?tab=repositories" target="_blank">
+  <a href="https://github.com/VCL-tt?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/📂_Explorar_Repositorios-4ECDC4?style=for-the-badge&logoColor=white" alt="Repositorios" />
   </a>
 </p>
@@ -81,7 +81,22 @@
 
 ---
 
+## 📊 Estadísticas de GitHub
 
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VCL-tt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VCL-tt&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VCL-tt&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VCL-tt&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+---
 
 ## 💼 Experiencia
 
@@ -95,20 +110,40 @@
 
 ---
 
+## 🎓 Formación
+
+**🎓 Ingeniería de Sistemas | Universidad Nacional de Trujillo**
+
+**📜 Certificaciones y Cursos:**
+- ☁️ AWS Cloud Computing
+- 🅰️ Angular Advanced Development  
+- ☕ Java & Spring Boot Microservices
+- 🐳 Docker & Container Orchestration
+- 📊 Database Design & Optimization
+
+---
+
+## 🎯 Enfoque Actual
+
+🔸 **Desarrollo Full-Stack** con tecnologías modernas  
+🔸 **Arquitecturas escalables** y mejores prácticas  
+🔸 **Aprendizaje continuo** en Cloud Computing y DevOps  
+🔸 **Código limpio** y documentación de calidad  
+
+---
 
 ## 📫 Conecta Conmigo
 
 <p align="center">
-  <a href="mailto:jorge.castillo.dev@gmail.com">
+  <a href="mailto:jorgecv.peru@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/jorgecastillovega">
+  <a href="https://www.linkedin.com/in/jcastillov15">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://jorgecastillo.dev">
-    <img src="https://jcvcode.netlify.app" alt="Portfolio" />
+  <a href="https://jcvcode.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
- 
 </p>
 
 <p align="center">
@@ -125,7 +160,7 @@
 ## 💰 ¿Te gusta mi trabajo?
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/jorgecastillo" target="_blank">
+  <a href="https://www.buymeacoffee.com/jorgecv" target="_blank">
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
   </a>
 </p>
@@ -133,8 +168,8 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tuusuario&label=Visitas+al+perfil&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/tuusuario?label=Seguidores&style=social" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=VCL-tt&label=Visitas+al+perfil&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/VCL-tt?label=Seguidores&style=social" alt="GitHub followers" />
 </p>
 
 <p align="center">
