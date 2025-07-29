@@ -108,7 +108,7 @@
 
 ## 🎓 Formación
 
-**🎓 Ingeniería de Sistemas | Universidad Nacional de Trujillo**
+**🎓 Ingeniería de Sistemas | Universidad Privada Antenor Orrego**
 
 **📜 Certificaciones y Cursos:**
 - ☁️ AWS Cloud Computing
